@@ -1,0 +1,6 @@
+2020-02-26 11:33:06 INFO  com.logger.mylogger.A:13 - Enter the amount:
+2020-02-26 11:33:09 INFO  com.logger.mylogger.A:15 - Enter the No.of years:
+2020-02-26 11:33:09 INFO  com.logger.mylogger.A:17 - Enter the Rate of  interest
+2020-02-26 11:33:10 INFO  com.logger.mylogger.A:28 - Simple Interest=18000.0
+2020-02-26 11:33:10 INFO  com.logger.mylogger.A:34 - Compound Interest=18545.399999999994
+2020-02-26 11:33:10 INFO  com.logger.mylogger.A:22 - Method executed successfully
